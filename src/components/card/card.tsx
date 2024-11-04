@@ -6,7 +6,7 @@ import UrgentIcon from "@/assets/urgent.svg";
 import HighIcon from "@/assets/high.svg";
 import MediumIcon from "@/assets/medium.svg";
 import LowIcon from "@/assets/low.svg";
-import NoPriorityIcon from "@/assets/no-priority.svg";
+import NoPriorityIcon from "@/assets/No-priority.svg";
 
 interface CardProps {
   readonly ticket: Ticket;
